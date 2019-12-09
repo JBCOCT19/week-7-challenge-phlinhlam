@@ -1,0 +1,21 @@
+body {
+    background-color: #c2b9bf;
+}
+
+h1 {
+    /*color: #636e6f;*/
+    margin-left: 20px;
+}
+th{
+    background-color: #d6d2d0;
+    color: #4e4b4f;
+    text-align: center;
+}
+table, th, td {
+    border: 1px solid #4e4b4f;
+    padding: 8px;
+}
+tr:nth-child(even) {
+    background-color: #edeae1;
+}
+
